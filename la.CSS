@@ -1,0 +1,46 @@
+.laura{
+    max-width: 950px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    height: 1200px;
+    box-shadow: 10px 10px gainsboro;
+    margin: 0 auto;
+    font-family: Helvetica;
+    text-align: left;
+}
+.first{
+    background-color: rgba(0, 110, 255, 0.824);
+    max-width: 850px;
+    height: 15px;
+    margin: 50px 50px;
+}
+h3{
+    margin-left: 50px;
+    margin-top: 45px;
+    color: rgba(0, 110, 255, 0.824);;
+}
+h1{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+.tre{
+    margin-left: 50px;
+}
+.for{
+    margin-left: 50px;
+}
+.five{
+    margin-left: 50px;
+}
+.loo{
+    color: gray;
+    margin-top: -15px;
+    font-size: small;
+}
+.six{
+    margin-left: 50px;
+    margin-right: 70px;
+}
+.seco{
+    margin-left: 50px;
+}
